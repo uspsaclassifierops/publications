@@ -50,7 +50,7 @@ Committee Reports:
 USPSA Classification Committee. [Title of Report]. United States Practical Shooting Association. [Date of Publication] [Updated Date if applicable]. Available from: [URL]
 
 Example:
-USPSA Classification Committee. Q3 2024 Classification System Performance Report. United States Practical Shooting Association. 2024 Oct 15. Available from: https://github.com/uspsa/classification-committee/publications/quarterly-reports/2024-Q3/system-performance.pdf
+USPSA Classification Committee. Q3 2024 Classification System Performance Report. United States Practical Shooting Association. 2024 Oct 15. Available from: https://github.com/uspsa/uspsaclassifierops/publications/quarterly-reports/2024-Q3/system-performance.pdf
 ```
 
 ## Questions and Feedback
