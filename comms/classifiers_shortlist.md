@@ -1,6 +1,7 @@
 # Interim Classifier Update and Recommendations
 
-Due to the recent rule changes, all classifiers for Limited-10 division were put into temporary provisional mode, effective Jan 31st.
+Due to the recent rule changes, all classifiers for Limited-10 division were put into temporary
+provisional mode, effective Jan 31st.
 
 ## Key Information
 
@@ -11,9 +12,14 @@ Due to the recent rule changes, all classifiers for Limited-10 division were put
 
 ## Recommended Classifier List
 
-To speed up the process of reactivating Limited-10 classifiers and to prevent any fees being paid on classifiers that will be retired later this year, we (the USPSA Classifier Committee) recommend the following classifiers. These have been reviewed and are guaranteed to stay active for all divisions at least until January 31st 2026.
+To speed up the process of reactivating Limited-10 classifiers and to prevent any fees being paid on
+classifiers that will be retired later this year, we (the USPSA Classifier Committee) recommend the
+following classifiers. These have been reviewed and are guaranteed to stay active for all divisions
+at least until January 31st 2026.
 
-All classifiers on this list (including 23- and 24-series) will count for Limited-10 classification purposes once the new High Hit Factors (HHFs) are ready. We hope that this encourages more shooters to shoot and classify in the newly updated Limited-10 division.
+All classifiers on this list (including 23- and 24-series) will count for Limited-10 classification
+purposes once the new High Hit Factors (HHFs) are ready. We hope that this encourages more shooters
+to shoot and classify in the newly updated Limited-10 division.
 
 ## Guaranteed Active Classifiers (Through January 31st, 2026)
 
@@ -55,11 +61,21 @@ All classifiers on this list (including 23- and 24-series) will count for Limite
 
 ## Current Status and Future Changes
 
-We are not pruning anything right now; all classifiers (except in the Limited-10 division) stay active, and any changes to them must go through a Board of Director's (BOD) vote first. However, in anticipation of the first iteration of changes to the USPSA Classification System, we would like to make a promise to keep a shorter list of classifiers, ensuring that people who shoot low participation divisions will have enough classifiers to shoot between now and first pruning.
+We are not pruning anything right now; all classifiers (except in the Limited-10 division) stay
+active, and any changes to them must go through a Board of Director's (BOD) vote first. However, in
+anticipation of the first iteration of changes to the USPSA Classification System, we would like to
+make a promise to keep a shorter list of classifiers, ensuring that people who shoot low
+participation divisions will have enough classifiers to shoot between now and first pruning.
 
-Currently, from the data-collecting standpoint, we have too many divisions and classifiers (9 x 100), making data collection and High Hit Factor calculation for newly introduced changes (Production, Limited-10) slow. To speed it up, we want to reduce the total number of classifiers to around 50-60, pending BOD vote, during the first set of changes to the USPSA Classification System.
+Currently, from the data-collecting standpoint, we have too many divisions and classifiers (9 x
+100), making data collection and High Hit Factor calculation for newly introduced changes
+(Production, Limited-10) slow. To speed it up, we want to reduce the total number of classifiers to
+around 50-60, pending BOD vote, during the first set of changes to the USPSA Classification System.
 
-Like before, the USPSA Classifier Committee will monitor and update the active classifiers list and HHFs from time to time, keeping the best classifiers in, adding new ones and retiring bad and unpopular ones. We believe that Classifiers and HHFs are living documents and should keep evolving with the sport.
+Like before, the USPSA Classifier Committee will monitor and update the active classifiers list and
+HHFs from time to time, keeping the best classifiers in, adding new ones and retiring bad and
+unpopular ones. We believe that Classifiers and HHFs are living documents and should keep evolving
+with the sport.
 
 ## Technical Notes
 
@@ -69,6 +85,12 @@ Like before, the USPSA Classifier Committee will monitor and update the active c
 
 ## Classifier Committee Mission
 
-The mission of the Classifier Committee is to develop a standardized method of calculating classification that accurately reflects members' skill levels using mathematically robust statistical methods, which eliminates subjectivity and bias from the process and makes it 100% data-driven.
+The mission of the Classifier Committee is to develop a standardized method of calculating
+classification that accurately reflects members' skill levels using mathematically robust
+statistical methods, which eliminates subjectivity and bias from the process and makes it 100%
+data-driven.
 
-The committee's first priority was to recalculate the High Hit Factors for the 23 and 24 series classifiers, which were identified as poorly calibrated. With the help of Elo rating correlation and statistical analysis of existing classification brackets, we found a way to calibrate the system with new HHFs to set the relative difficulty equal for all stages regardless of the division.
+The committee's first priority was to recalculate the High Hit Factors for the 23 and 24 series
+classifiers, which were identified as poorly calibrated. With the help of Elo rating correlation and
+statistical analysis of existing classification brackets, we found a way to calibrate the system
+with new HHFs to set the relative difficulty equal for all stages regardless of the division.
